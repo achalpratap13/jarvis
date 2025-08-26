@@ -1,0 +1,9 @@
+SpeechRecognition
+pyaudio
+gtts
+playsound
+requests
+python-dotenv
+keyboard
+fastapi
+uvicorn
