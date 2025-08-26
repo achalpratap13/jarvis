@@ -5,5 +5,4 @@ playsound
 requests
 python-dotenv
 keyboard
-fastapi
 uvicorn
